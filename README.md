@@ -1,2 +1,2 @@
-# viewfinder
-SLR camera viewfinder node setup for Blender 2.8
+# Viewfinder
+SLR camera viewfinder node setup for Blender 2.8x
